@@ -10,6 +10,11 @@ public class Ktm  {
 	public static void main(String[] args) {
 		Ktm u = new Ktm();
 		u.add1();
+
 		System.out.println("paul");
+
+		System.out.println("prince");
+		
+
 	}
 }
